@@ -1,0 +1,2 @@
+# cn2an-LacTransform
+基于cn2an包与LAC分词创建的智能化中文与阿拉伯数字相互替换的软件包
